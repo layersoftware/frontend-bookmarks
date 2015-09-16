@@ -2,4 +2,5 @@
 
 - Javascript
 
-  -[Meteor](https://www.meteor.com/): Open source platform for building web and mobile apps in pure JavaScript.
+  [Meteor](https://www.meteor.com/): Plataforma open-source para construir web e mobile apps com javascript puro.
+  [React](http://facebook.github.io/react/): Biblioteca javascript para construir interfaces de usuário.
